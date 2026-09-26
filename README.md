@@ -77,4 +77,4 @@
   <br>
   https://htmlcolorcodes.com/color-picker/
 * **_That website is also useful for color palette ideas or understanding <br>
-  color combos better_**
+  color combos better_** 
